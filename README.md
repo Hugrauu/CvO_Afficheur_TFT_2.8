@@ -4,5 +4,10 @@
 Note : Fichiers privés et non accessible sans lien de partage.
 
 # ESP32 
-
 ![Imgur](https://i.imgur.com/9FGQ7f9.png)
+
+# Afficheur
+[Imgur](https://i.imgur.com/SEguJEh.png)
+
+#Connexions
+[Imgur](https://i.imgur.com/TDjWWa1.png)
